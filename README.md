@@ -1,4 +1,4 @@
 # Palestrinhas
 slides das minhas palestras!
 
-* [Controle de Versão de Código](Palestras/controle-versao-codigo/)
+* [Controle de Versão de Código](controle-versao-codigo/controle-versao-codigo)
